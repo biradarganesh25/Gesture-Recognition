@@ -17,3 +17,5 @@ classification.
 
 LeapSDK needs to be downloaded and put in some folder. The path to this folder must be specified in the get_input.py
 function which does the prediction.
+
+The main collaborators for this project were: [Ganesh Biradar](https://github.com/biradarganesh25), [Aravind Varier](https://github.com/aravindvarier)
